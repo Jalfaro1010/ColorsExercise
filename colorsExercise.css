@@ -1,0 +1,26 @@
+/* I wish I was not Colorblind */
+h1{
+  color:blue;
+  background-color: red;
+}
+h2{
+    color: #227788;
+    background-color: #ffa500;
+}
+h3{
+    color: rgb(255, 255, 128);
+    background-color: rgb(255, 255, 0);
+}
+h4{
+    color: #15c;
+    background-color: ;
+}
+h5{
+    color: rgba(80,70, 60, 0.3);
+}
+h6{
+    color: #6b2d5c9f;
+}
+p{
+    color: #15cf9 ;
+}
